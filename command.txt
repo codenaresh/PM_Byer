@@ -1,0 +1,15 @@
+Use x prefix to a test to skip a test in the jasmine
+
+Run any particular 'it block' by prefixing it with fy
+
+npm i jasmine-await library used for
+
+
+
+	setTimeout(function(){
+			end();
+
+
+
+
+		}, 5000)

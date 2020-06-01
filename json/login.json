@@ -1,0 +1,14 @@
+{ 
+   "testdata":{ 
+   "testsiteurl":"https://archway-premiernutrition-qa.azurewebsites.net/login",
+      "forgotpwd":"Forgot Password",
+      "contactus":"Contact Us",
+      "rememberme":"Remember Me",
+      "title":"Premier Nutrition Buyer",
+      "userlabel":"User Name",
+      "accountLoginText":"Account Login",
+      "logout":"login",
+      "urltext":"home",
+      "logouturl":"https://archway-premiernutrition-qa.azurewebsites.net/login"
+   }
+}
