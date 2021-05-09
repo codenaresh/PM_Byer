@@ -68,6 +68,8 @@ allScriptsTimeout:2500000,
 QuickAdd:'./specs/AddItem/AddItem_quickadd_spec.js',
 	  
 	AddMultipleProducts:'./specs/AddItem/AddMultipleProduct.js',
+
+     AddMultipleProductWithSomeAmount:'./specs/AddItem/AddMultipleProduct1.js',
 	  
 	  
 	AddByCategory:'./specs/AddItem/AddItemByCategory_spec.js',
